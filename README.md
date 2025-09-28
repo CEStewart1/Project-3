@@ -4,7 +4,7 @@
 
 | Source Code | Codeberg Rendering |
 |-------------|--------------------|
-| ![Source Code](Image1.png) | ![Codeberg Rendering](Project32.png) |
+| ![Source Code](Project31.png) | ![Codeberg Rendering](Project32.png) |
 
 ---
 
