@@ -1,6 +1,6 @@
-# Edited Open-source Documentation
+# Revised User Guide
 
-## Source Code vs. Codeberg Rendering
+## Cisco IP User Guide vs. Recreated User Guide
 
 | Source Code | Codeberg Rendering |
 |-------------|--------------------|
@@ -9,22 +9,14 @@
 ---
 
 ## Contributions
-As the sole technical writer for the Hadron project, I was responsible for copyediting Hadron’s legacy documents, which included maintaining consistency across the documentation and establishing clear quality standards. During the copyediting process, I used Markdown markup language and stored all documentation in a Git repository. The final rendered files are now published and accessible on Codeberg.org.  
-
-One key deliverable included copyediting the **Developer Guide** shown above. The *Developer Guide* was designed to help new contributors effectively engage with the project. This guide provides developers with a clear outline of the contributor workflow, project file structure, issue reporting, licensing rules, and more.  
+As a technical writer, I was responsible for recreating the Cisco phone user guide to improve training outcomes. I began by auditing the existing content to identify redundancies and formatting issues, then restructured the material into a logical sequence that reflected how receptionists use the phones in their daily work. To make the guide more engaging, I introduced visual elements and improved its overall design. The updated guide not only addressed real learning gaps but also supported hands-on training activities.
 
 ---
 
 ## Challenges
-Before my contributions, the project’s legacy documentation suffered from inconsistent language, a lack of contributor-friendly guidance, and writing inconsistencies. In addition, I overcame content-related challenges while working with **Codeberg.com**, as the platform is not widely used in the industry.  
+The challenges that arose during this project stemmed from the legacy documentation, which often led to disengagement and frustration among new hires. The content was not organized in a manner that reflected real-world tasks, making it difficult for users to navigate effectively. Despite these obstacles, I focused on gaining the perspective of the new hires and subsequently recreated the documentation to better align with their needs.​
 
 ---
 
 ## Results
-By standardizing the language and improving clarity, I transformed the documentation into a reliable resource that actively supports the developer community. The improved *Developer Guide*:  
-
-- Reduced onboarding time  
-- Minimized errors caused by unclear instructions  
-- Established a professional standard for future documentation  
-
-In short, I helped turn the documentation from a barrier into an asset — saving the team time, increasing contributor confidence, and setting the project up for long-term success.  
+I recreated  the guide to increase engagement and ease of use, redesigned the layout to encourage user engagement, and converted it into a professional booklet format for seamless distribution. These improvements elevated the training process, helping new hires feel more confident and better prepared to succeed in their roles.
