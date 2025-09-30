@@ -2,6 +2,8 @@
 
 ## Cisco IP User Guide vs. Recreated User Guide
 
+## For more details, visit my portfolio https://stewartecleo.wixsite.com/portfolio
+
 | Source Code | Codeberg Rendering |
 |-------------|--------------------|
 | ![Source Code](Project31.png) | ![Codeberg Rendering](Project32.png) |
